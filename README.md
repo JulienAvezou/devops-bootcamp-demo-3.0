@@ -51,3 +51,16 @@ docker push 395901524773.dkr.ecr.eu-central-1.amazonaws.com/my-app:1.0
 
 14. Create volume and attach to mongoDB container to persist data
 <img width="365" alt="Capture d’écran 2022-10-15 à 22 38 36" src="https://user-images.githubusercontent.com/62488871/196006646-f72d335b-36f2-4c7f-9057-fb2036c4ed43.png">
+
+15. Create Docker Hosted repo on Nexus
+<img width="812" alt="Capture d’écran 2022-10-15 à 23 08 18" src="https://user-images.githubusercontent.com/62488871/196007627-f15d3a61-2f69-409f-8462-eefc0214a0fb.png">
+<img width="887" alt="Capture d’écran 2022-10-15 à 23 11 09" src="https://user-images.githubusercontent.com/62488871/196007706-cfed70d6-727b-416a-ae03-b139b8fbc02d.png">
+<img width="648" alt="Capture d’écran 2022-10-15 à 23 14 41" src="https://user-images.githubusercontent.com/62488871/196007806-3f2b8617-e06c-4351-aa58-2b66f6b7dcdc.png">
+<img width="1220" alt="Capture d’écran 2022-10-15 à 23 15 13" src="https://user-images.githubusercontent.com/62488871/196007820-acc963bd-0a69-4add-b198-049ce91c77e2.png">
+<img width="807" alt="Capture d’écran 2022-10-15 à 23 17 01" src="https://user-images.githubusercontent.com/62488871/196007896-3d295644-4100-4423-9a8c-c46d5066d8e0.png">
+<img width="861" alt="Capture d’écran 2022-10-15 à 23 25 00" src="https://user-images.githubusercontent.com/62488871/196008123-ccc14033-73ed-4de3-8576-ac9f904f8b20.png">
+<img width="352" alt="Capture d’écran 2022-10-15 à 23 25 19" src="https://user-images.githubusercontent.com/62488871/196008135-d9d7abec-004e-4ea8-adbf-e29c8cfc7368.png">
+<img width="523" alt="Capture d’écran 2022-10-15 à 23 30 26" src="https://user-images.githubusercontent.com/62488871/196008294-575f7800-69b0-47d2-ac01-9af16148e034.png">
+<img width="454" alt="Capture d’écran 2022-10-15 à 23 31 15" src="https://user-images.githubusercontent.com/62488871/196008313-3ed656ce-17fd-4b69-b696-9f1499303327.png">
+
+
