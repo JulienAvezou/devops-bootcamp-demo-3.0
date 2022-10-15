@@ -63,4 +63,13 @@ docker push 395901524773.dkr.ecr.eu-central-1.amazonaws.com/my-app:1.0
 <img width="523" alt="Capture d’écran 2022-10-15 à 23 30 26" src="https://user-images.githubusercontent.com/62488871/196008294-575f7800-69b0-47d2-ac01-9af16148e034.png">
 <img width="454" alt="Capture d’écran 2022-10-15 à 23 31 15" src="https://user-images.githubusercontent.com/62488871/196008313-3ed656ce-17fd-4b69-b696-9f1499303327.png">
 
+16. Deploy Nexus as Docker Container
+- create new droplet
+- ssh into remote server
+- install docker
+- create volume -> docker volume create --name nexus-data
+- run docker nexus image -> docker run -d -p 8081:8081 --name nexus -v nexus-data:/nexus-data sonatype/nexus
+<img width="661" alt="Capture d’écran 2022-10-15 à 23 51 55" src="https://user-images.githubusercontent.com/62488871/196008917-000e7d5b-92de-4000-a4af-2c8f7f4eba3e.png">
+<img width="676" alt="Capture d’écran 2022-10-15 à 23 58 05" src="https://user-images.githubusercontent.com/62488871/196009102-834ae21e-b316-4c53-a569-4dc44bb76cc7.png">
+
 
