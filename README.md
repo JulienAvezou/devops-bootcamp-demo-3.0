@@ -49,5 +49,5 @@ docker push 395901524773.dkr.ecr.eu-central-1.amazonaws.com/my-app:1.0
 13. Simulate running of app on server by using docker compose file that pulls image from private docker repo and pulls mongo images from docker hub (public)
 <img width="560" alt="Capture d’écran 2022-10-15 à 22 12 10" src="https://user-images.githubusercontent.com/62488871/196005877-63c68f0f-57e4-4de6-ba47-d7e000463e64.png">
 
-14. Create volume and attach to mongoDB to persist data
+14. Create volume and attach to mongoDB container to persist data
 <img width="365" alt="Capture d’écran 2022-10-15 à 22 38 36" src="https://user-images.githubusercontent.com/62488871/196006646-f72d335b-36f2-4c7f-9057-fb2036c4ed43.png">
